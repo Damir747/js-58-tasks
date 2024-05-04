@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=VQvyqrJltcU
 
 sub-array-sum.js
 https://www.youtube.com/watch?v=v5Y4vQ824cI
+
+search-matrix.js
+https://www.youtube.com/watch?v=iUSxT3-d5EU
